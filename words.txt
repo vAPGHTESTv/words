@@ -1,1 +1,1 @@
- and words
+ContentFile(path="words.txt") and words!
